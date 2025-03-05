@@ -1,5 +1,6 @@
 ﻿# darkmode_js
- ![Uploading 20250304_144955.gif…]()
+ ![20250305_123608](https://github.com/user-attachments/assets/a6840a44-8c8d-4811-96fd-89a87e628fec)
+
 
 ## 目的
 ‐ ダークモードに変更するのをやってみたかった
